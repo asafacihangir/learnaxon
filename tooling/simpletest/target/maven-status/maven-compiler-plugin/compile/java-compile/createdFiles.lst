@@ -1,0 +1,6 @@
+com/simpletest/SimpleAxonApplication.class
+com/simpletest/query/SimpleQuery.class
+com/simpletest/saga/SimpleSaga.class
+com/simpletest/saga/SimpleUpcaster.class
+com/simpletest/controller/SimpleController.class
+com/simpletest/command/SimpleAggregate.class

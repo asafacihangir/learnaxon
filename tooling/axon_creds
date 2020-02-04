@@ -1,0 +1,7 @@
+reDMiX4tKX8fEm1fCNaa
+
+axon.axonserver.servers=axonserver.cloud.axoniq.io:443 
+axon.axonserver.context=axontut-saga-3o0Z9Uw0 
+axon.axonserver.ssl-enabled=true 
+axon.axonserver.keep-alive-time=0 
+axon.axonserver.token=reDMiX4tKX8fEm1fCNaa

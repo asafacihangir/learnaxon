@@ -1,0 +1,6 @@
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/controller/SimpleController.java
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/upcasters/SimpleUpcaster.java
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/command/SimpleAggregate.java
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/SimpleAxonApplication.java
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/saga/SimpleSaga.java
+/Applications/Workspaces/Personal/Companies/LearnAxon/tooling/simpletest/src/main/java/com/simpletest/query/SimpleQuery.java

@@ -1,15 +1,11 @@
 # Tools/Tips/Tutorials for learning the Axon framework
 
-Tools
+## Tools
 
   Simple Maven Archetype to generate starter Axon projects
 
-Tutorials
+## Tutorials
 
-  Sagas
-  Testing
-  Scalability
-
-
-
-
+  **Sagas
+  **Testing
+  **Scalability

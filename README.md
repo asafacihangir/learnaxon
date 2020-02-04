@@ -6,4 +6,4 @@
 
 ## Tutorials
 
-  The complete guide to Sagas in Axon Framework *Coming 12-Feb-2020
+  The complete guide to Sagas in Axon Framework (Coming 12-Feb-2020)

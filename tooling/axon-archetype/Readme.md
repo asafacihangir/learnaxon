@@ -5,10 +5,10 @@
    The Axon simple archetype intends to get you started with using the Axon framework quickly by providing you a ready to use
    Spring Boot based Axon application scaffold with the following capabilities
     
-      Package structure for your Axon applications
-      Axon Sample Artefacts
-      Axon Sample Test Classes
-      Axon Server Configuration
+      - Package structure for your Axon applications
+      - Axon Sample Artefacts
+      - Axon Sample Test Classes
+      - Axon Server Configuration
       
    It also bundles all the necessary dependencies required for your Axon application helping you focus on just using Axon
 
@@ -58,7 +58,8 @@
     1. JUnit
     
        The archetype creates a JUnit Test class (SimpleCommandTest.java) which makes use of the
-       AggregateTestFixture/FixtureConfiguration capabilities provided by the Axon framework itself
+       AggregateTestFixture/FixtureConfiguration capabilities provided by the Axon framework to unit test your Commands/
+       Events.
        
        Run mvn test to execute the test case
        
@@ -66,13 +67,13 @@
     
         The archetype also creates a SimpleController which provides a REST API to execute the SimpleCommand(s).
         
-        Download the Axon Server SE Edition v4.2 from (www.axoniq.io) and run it (as simple as java -jar axonserver.jar)
-        OPen the Axon server console at http://localhost:8024
-        Install and run your Spring Boot Application created from the archetype (assuming it runs on 8080)
-        Open the Axon server console and click on Overview. You should see the "SampleApplication" 
-        connected to the Axon Server
-        Open Postman (or curl) and run the following POST command  "http://localhost:8080/commands?commandData=hello"
-        You should start seeing the Commands and Events within the Console
+        - Download the Axon Server SE Edition v4.2 from (www.axoniq.io) and run it (as simple as java -jar axonserver.jar)
+        - OPen the Axon server console at http://localhost:8024
+        - Install and run your Spring Boot Application created from the archetype (assuming it runs on 8080)
+        - Open the Axon server console and click on Overview. You should see the "SampleApplication" 
+          connected to the Axon Server
+        - Open Postman (or curl) and run the following POST command  "http://localhost:8080/commands?commandData=hello"
+        - You should start seeing the Commands and Events within the Console
         
         
 Add your Commands/Queries/Events/Sagas and Upcasters. Happy Eventing with the Axon Framework !

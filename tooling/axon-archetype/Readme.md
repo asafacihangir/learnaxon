@@ -10,7 +10,7 @@
       Axon Sample Test Classes
       Axon Server Configuration
       
-    It also bundles all the necessary dependencies required for your Axon application helping you focus on just using Axon
+   It also bundles all the necessary dependencies required for your Axon application helping you focus on just using Axon
 
 ##  Installation
 
@@ -24,9 +24,9 @@
 
 ## Features
 
-    The archetype will generate a complete Axon starter project for you. 
+   The archetype will generate a complete Axon starter project for you. 
     
-    This includes
+   This includes
     
     - Axon Artefacts
       
@@ -47,13 +47,13 @@
     
 ## Testing
 
-    There are two flows that need to be tested for the code that the archetype generates
+   There are two flows that need to be tested for the code that the archetype generates
     
-    Simple Create Command  -> Simple Event Created -> Simple Event Created Handler
-    Simple Modify Command  -> Simple Event Modified -> Simple Event Modified Handler
+       Simple Create Command  -> Simple Event Created -> Simple Event Created Handler
+       Simple Modify Command  -> Simple Event Modified -> Simple Event Modified Handler
     
     
-    The archetype provides two ways of testing the scenarios
+   The archetype provides two ways of testing the scenarios
     
     1. JUnit
     
@@ -69,12 +69,13 @@
         Download the Axon Server SE Edition v4.2 from (www.axoniq.io) and run it (as simple as java -jar axonserver.jar)
         OPen the Axon server console at http://localhost:8024
         Install and run your Spring Boot Application created from the archetype (assuming it runs on 8080)
-        Open the Axon server console and click on Overview. You should see the "SampleApplication" connected to the Axon Server
+        Open the Axon server console and click on Overview. You should see the "SampleApplication" 
+        connected to the Axon Server
         Open Postman and run the following POST command  "http://localhost:8080/commands?commandData=hello"
         You should start seeing the Commands and Events within the Console
         
         
-        
+Add your Commands/Queries/Events/Sagas and Upcasters. Happy Eventing with the Axon Framework !
         
         
         

@@ -71,7 +71,7 @@
         Install and run your Spring Boot Application created from the archetype (assuming it runs on 8080)
         Open the Axon server console and click on Overview. You should see the "SampleApplication" 
         connected to the Axon Server
-        Open Postman and run the following POST command  "http://localhost:8080/commands?commandData=hello"
+        Open Postman (or curl) and run the following POST command  "http://localhost:8080/commands?commandData=hello"
         You should start seeing the Commands and Events within the Console
         
         

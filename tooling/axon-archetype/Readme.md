@@ -2,8 +2,8 @@
 
 ##  Introduction
 
-    The Axon simple archetype intends to get you started with using the Axon framework quickly by providing you a ready to use
-    Spring Boot based Axon application scaffold with the following capabilities
+   The Axon simple archetype intends to get you started with using the Axon framework quickly by providing you a ready to use
+   Spring Boot based Axon application scaffold with the following capabilities
     
       Package structure for your Axon applications
       Axon Sample Artefacts

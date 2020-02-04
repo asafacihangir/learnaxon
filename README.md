@@ -6,6 +6,4 @@
 
 ## Tutorials
 
-  **Sagas
-  **Testing
-  **Scalability
+  The complete guide to Sagas in Axon Framework *Coming 12-Feb-2020

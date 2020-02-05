@@ -10,7 +10,10 @@
       - Axon Sample Test Classes
       - Axon Server Configuration
       
-   It also bundles all the necessary dependencies required for your Axon application helping you focus on just using Axon
+   It also bundles all the necessary dependencies required for your Axon application helping you focus on just using the
+   Axon framework capabilities. 
+   
+   Do note that the archetype only supports Axon Server SE/EE editions. It cannot be used for any other event store 
 
 ##  Installation
 

@@ -6,4 +6,4 @@
 
 ## Tutorials
 
-  The complete guide to Sagas in Axon Framework (Coming 12-Feb-2020)
+   Implementing the new Aggregate Creation Policy in Axon 4.3 (Released 22-Feb-2020)
